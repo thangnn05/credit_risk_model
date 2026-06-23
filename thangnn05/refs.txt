@@ -1,0 +1,3 @@
+Full EDA: https://www.kaggle.com/code/mariyamalshatta/masterclass-1-a-comprehensive-guide-for-eda#Masterclass-1-:-A-Comprehensive-Guide-to-Data-Exploration-Analysis-EDA-(Titanic-Case-Study)
+
+Rob's EDA tutorial: https://www.youtube.com/watch?v=xi0vhXFPegw&t=507s
